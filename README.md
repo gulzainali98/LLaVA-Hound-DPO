@@ -1,7 +1,7 @@
 # <h1>LLaVA-Hound:<br> Video Large Multimodal Models from Large-scale Training</h1>
 
 Official implementation for paper: 
-
+a
 [**Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward**](https://arxiv.org/abs/2404.01258)
 
 ## Release
